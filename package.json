@@ -1,0 +1,23 @@
+{
+  "name": "express-library",
+  "version": "1.0.0",
+  "description": "simple-express-library",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haziq12/express-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haziq12/express-library/issues"
+  },
+  "homepage": "https://github.com/Haziq12/express-library#readme",
+  "dependencies": {
+    "methods": "^1.1.2"
+  }
+}
